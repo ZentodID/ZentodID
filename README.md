@@ -4,9 +4,9 @@
 <img src="https://i.ibb.co/FH3XCdD/b105f465b1fe8562f8d169f2b49b0357.jpg" width="100%" alt="API Giphy logo"/>
 </p>
 
-- 🌱 I’m currently learning **Naik Rank SS Tanpa Char EX**.
+- 🌱 I’m currently learning for**Jadi Orang Baik**.
 
-- 👀 I'm currently focusing on **JavaScript**.
+- 👀 I'm currently focusing on **Kehidupan**.
 
 - 🤗 Follow Account Github on [`@ZentodID`](https://github.com/ZentodID/) 
 
