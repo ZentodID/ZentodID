@@ -1,7 +1,7 @@
 - ### Hi there 👋
 <h1 align="center">ヨハネス<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>ZentodID desu!</h1>
 <p align="center">
-<img src="https://id.pinterest.com/pin/748090188098055582/" width="100%" alt="API Giphy logo"/>
+<img src="https://i.ibb.co/FH3XCdD/b105f465b1fe8562f8d169f2b49b0357.jpg" width="100%" alt="API Giphy logo"/>
 </p>
 
 - 🌱 I’m currently learning **Naik Rank SS Tanpa Char EX**.
