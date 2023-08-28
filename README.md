@@ -8,7 +8,7 @@
 
 - 👀 I'm currently focusing on **Kehidupan**.
 
-- 🤗 Follow Account Github on [`@ZentodID`](https://github.com/ZentodID/) 
+- 🤗 Follow Account Instagram on [`@udeannnnnnn`](https://www.instagram.com/udeannnnnnn/) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
