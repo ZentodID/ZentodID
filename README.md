@@ -8,6 +8,20 @@
 
 - 👀 I'm currently focusing on **Kehidupan**.
 
+-   🔭 I’m currently working on bedroom
+
+- 👯 I’m looking to collaborate on Games
+
+-  🤔 I’m looking for help with my ml rank
+
+-  💬 Ask me about anything
+
+-  📫 How to reach me: panggil kontol aja
+
+-  😄 Pronouns: Jawa cuy yahaha
+
+-  ⚡ Fun fact: Saia Wibu
+
 - 🤗 Follow Account Instagram on [`@udeannnnnnn`](https://www.instagram.com/udeannnnnnn/) 
 
 <p align="center">
